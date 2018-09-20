@@ -51,6 +51,7 @@ function init() {
     proxyDomains["akamaihd.net"]=1;
     proxyDomains["google.com"]=1;
     proxyDomains["zhaopin.com"]=1;
+    proxyDomains["lagou.com"]=1;
     proxyDomains["googleusercontent.com"]=1;
     proxyDomains["youtube.com"]=1;
     proxyDomains["ytimg.com"]=1;
