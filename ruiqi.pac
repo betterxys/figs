@@ -44,6 +44,7 @@ function init() {
 
     proxyDomains["wikipedia.org"]=1;
     proxyDomains["facebook.com"]=1;
+    proxyDomains["lagou.com"]=1;
     proxyDomains["highpin.cn"]=1;
     proxyDomains["facebook.net"]=1;
     proxyDomains["fbsbx.com"]=1;
